@@ -1,0 +1,100 @@
+/* start header */
+
+header {
+  background-color: #ffc107;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+}
+
+.navbar-dark .navbar-brand h4 {
+  color: #ffc107;
+}
+.navbar-dark .navbar-brand p {
+  color: #fff;
+  margin-top: 0;
+  margin-bottom: 0px;
+  font-size: 14px;
+}
+
+/* end header */
+
+/* start slider */
+
+.carousel-caption {
+  position: absolute;
+  right: 15%;
+  bottom: 130px;
+  left: 15%;
+  z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #fff;
+  text-align: center;
+}
+
+.carousel-caption h1 {
+  color: #ffc107;
+}
+
+/* end slider */
+
+/* start section */
+
+section .container i {
+  font-size: 60px;
+  padding: 20px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+/* end section */
+
+/* start section3 */
+.section3 .container div .sign input {
+  width: 302px;
+}
+.section3 .container div .sign button {
+  padding: 0 16px;
+  height: 28px;
+}
+.section3 .container h1 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* end section */
+
+/* startt footer */
+
+footer {
+  background-image: url(../images/6.png);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  color: #fff;
+}
+footer .filter {
+  background-color: #00000087;
+}
+
+footer .filter .container .style1 h4 {
+  color: #ffc107;
+}
+footer .filter .container .style1 i {
+  color: black;
+  font-size: 15px;
+  padding: 3px;
+}
+footer .filter .container .style2 i {
+  color: white;
+  font-size: 30px;
+  padding: 10px;
+}
+footer .filter .container .style3 i {
+  color: white;
+  font-size: 13px;
+  padding: 3px;
+}
+
+/* end footer */
